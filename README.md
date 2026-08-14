@@ -32,7 +32,13 @@ Looking for internship/full-time opportunities as an AI/GenAI Engineer or Full-S
 ### 🎓 Education
 **B.Tech in Computer Science and Engineering** — Sri Indu Institute of Engineering and Technology (CGPA: 8.1, Expected May 2027)
 
-
+### 🧩 Problem Solving
+Solved many problems efficiently across coding platforms:
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</p>
 
 ### 📜 Certifications
 Achieved certifications from:
@@ -52,6 +58,23 @@ Achieved certifications from:
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00A9E0?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge)
+
+**Key Concepts I work with:**
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LangChain
+- Hugging Face Transformers
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- Vector Databases — FAISS, ChromaDB, Pinecone
+- AI Agents / Agentic AI
+- LLM API Integration — OpenAI, Gemini, Claude, etc.
+- Fine-tuning & Model Adaptation
+- Text Generation & NLP
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
