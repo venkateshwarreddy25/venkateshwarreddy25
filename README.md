@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muduganti Venkateshwar Reddy</h1>
-<h3 align="center">AI/GenAI Engineer | Full-Stack Developer | B.Tech CSE Student</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Venkateshwar+Reddy;AI+%2F+GenAI+Engineer;Full-Stack+Developer;RAG+%26+LLM+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muduganti-venkateshwar-reddy" target="_blank">
@@ -11,6 +12,11 @@
   <a href="https://github.com/venkateshwarreddy25" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=venkateshwarreddy25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="500">
 </p>
 
 ---
@@ -107,6 +113,46 @@ A multi-page Streamlit app comparing student resumes against job descriptions us
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshwarreddy25&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkateshwarreddy25&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<!--
+  🐍 Animated contribution snake — this needs a one-time GitHub Action setup in YOUR repo.
+  1. Create a repo named exactly "venkateshwarreddy25" (your profile repo).
+  2. Add the workflow file below at .github/workflows/snake.yml
+  3. Push once — GitHub Actions will generate the animated snake automatically.
+
+  ----- .github/workflows/snake.yml -----
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch: {}
+    push:
+      branches: [ main ]
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: venkateshwarreddy25
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ '{{ secrets.GITHUB_TOKEN }}' }}
+  -----------------------------------------
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkateshwarreddy25/venkateshwarreddy25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🏆 Achievements
@@ -127,12 +173,21 @@ A multi-page Streamlit app comparing student resumes against job descriptions us
 
 ---
 
-## 🤝 Open to Collaborate On
+## 🤝 Let's Collaborate
 
-- Open-source projects
-- AI/GenAI & RAG-based applications
-- Freelance / internship opportunities
-- Hackathons & startup ideas
+I'm always excited to team up on new ideas — reach out if any of these interest you:
+
+| 💡 Area | 🔍 Details |
+|---|---|
+| Open Source | Contributing to / maintaining GenAI & web-dev repos |
+| AI/GenAI Projects | RAG pipelines, LLM apps, multi-agent systems |
+| Freelance / Internships | Full-stack or AI engineering roles |
+| Hackathons | Team up for weekend builds and competitions |
+| Startup Ideas | Early-stage collaboration & MVP building |
+
+<p align="center">
+  <i>💬 Got an idea? <a href="mailto:mvreddy052005@gmail.com">Drop me an email</a> or connect on <a href="https://www.linkedin.com/in/muduganti-venkateshwar-reddy">LinkedIn</a> — always open to a good conversation!</i>
+</p>
 
 ---
 
