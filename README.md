@@ -102,11 +102,28 @@ A multi-page Streamlit app comparing student resumes against job descriptions us
 
 # 🏆 Achievements
 
-- 🧩 Solved 200+ problems on LeetCode, showcasing strong algorithmic and data-structures skills
-- 🎓 Maintained a CGPA of 8.1 while actively building and deploying real, user-facing projects
-- 🏅 Participated in multiple hackathons, collaborating in teams to build solutions under time constraints
-- 🤖 Built projects applying AI/ML concepts including multi-agent pipelines, predictive models, and data analysis
-- ☁️ Deployed full-stack applications to production with live links using Vercel, Render, and Firebase
+- <img src="https://img.shields.io/badge/-Problem_Solving-FF6B6B?style=flat-square&logo=leetcode&logoColor=white" /> Solved many problems efficiently across **LeetCode**, **HackerRank**, and **CodeChef**, showcasing strong algorithmic and data-structures skills
+- <img src="https://img.shields.io/badge/-CGPA_8.1-4ECDC4?style=flat-square&logo=googlescholar&logoColor=white" /> Maintained a CGPA of 8.1 while actively building and deploying real, user-facing projects
+- <img src="https://img.shields.io/badge/-Hackathons-FFD93D?style=flat-square&logo=devpost&logoColor=black" /> Participated in multiple hackathons, collaborating in teams to build solutions under time constraints
+- <img src="https://img.shields.io/badge/-AI/ML_Projects-A66CFF?style=flat-square&logo=openai&logoColor=white" /> Built projects applying AI/ML concepts including multi-agent pipelines, predictive models, and data analysis
+- <img src="https://img.shields.io/badge/-Deployment-38B000?style=flat-square&logo=vercel&logoColor=white" /> Deployed full-stack applications to production with live links using Vercel, Render, and Firebase
+
+### 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Udemy-Certified-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Certified-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-Certified-00C487?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Certified-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+<!-- Add the certificate names + links here, e.g.:
+- [Udemy] Complete Python Bootcamp — [View Certificate](link)
+- [GeeksforGeeks] Data Structures & Algorithms — [View Certificate](link)
+- [ServiceNow] Certified System Administrator — [View Certificate](link)
+- [LangChain] LangChain for LLM Application Development — [View Certificate](link)
+-->
+
 
 ---
 
