@@ -32,13 +32,7 @@ Looking for internship/full-time opportunities as an AI/GenAI Engineer or Full-S
 ### 🎓 Education
 **B.Tech in Computer Science and Engineering** — Sri Indu Institute of Engineering and Technology (CGPA: 8.1, Expected May 2027)
 
-### 🧩 Problem Solving
-Solved many problems efficiently across coding platforms:
-<p>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</p>
+
 
 ### 📜 Certifications
 Achieved certifications from:
