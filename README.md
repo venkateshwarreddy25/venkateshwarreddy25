@@ -32,9 +32,22 @@ Looking for internship/full-time opportunities as an AI/GenAI Engineer or Full-S
 ### 🎓 Education
 **B.Tech in Computer Science and Engineering** — Sri Indu Institute of Engineering and Technology (CGPA: 8.1, Expected May 2027)
 
-<!-- Add a fun fact about yourself here! -->
-### ⚡ Fun Fact
-I've solved 200+ problems on LeetCode while shipping and deploying real-world full-stack projects on the side.
+### 🧩 Problem Solving
+Solved many problems efficiently across coding platforms:
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</p>
+
+### 📜 Certifications
+Achieved certifications from:
+<p>
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-00C487?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
 ---
 
